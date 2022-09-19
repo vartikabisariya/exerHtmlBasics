@@ -1,4 +1,4 @@
-# V School Assignment - Silly CIA Part 1
+# HTML Basics Assignment
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 
